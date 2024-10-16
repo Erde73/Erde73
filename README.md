@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 👨‍🔬 I am currently researching the analysis of users of subscriptions using statistical analysis in the Ohori Laboratory, Graduate School of Software and Information Science, Iwate Prefectural University.
+- 🔭 I'm currently working part-time as an engineer at Sustinere Co., Ltd. and I'm working on an IoT project.
+- 🌱 I’m currently learning statistical analysis and IoT. As for programming languages, I am learning Python and Rust.
+
 <!--
 **Erde73/Erde73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

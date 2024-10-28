@@ -2,7 +2,7 @@
 
 - 👨‍🔬 I am currently researching the analysis of users of subscriptions using statistical analysis in the Ohori Laboratory, Graduate School of Software and Information Science, Iwate Prefectural University.
 - 🔭 I'm currently working part-time as an engineer at Sustinere Co., Ltd. and I'm working on an IoT project.
-- 🌱 I’m currently learning statistical analysis and IoT. As for programming languages, I'm learning Python and Rust.
+- 🌱 I’m currently learning statistical analysis and IoT. As for programming languages, I'm learning Python, R and Rust.
 
 ## Langs and Skills
 <p align="left"> 

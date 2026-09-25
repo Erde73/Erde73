@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 👨‍🔬 I am currently researching the analysis of users of subscriptions using statistical analysis in the Ohori Laboratory, Graduate School of Software and Information Science, Iwate Prefectural University.
-- 🔭 I'm currently working part-time as an engineer at Sustinere Co., Ltd. and I'm working in the IoT team within the ICT Solutions Division.
-- 🌱 I’m currently learning statistical analysis and IoT. As for programming languages, I'm learning Python, R and Rust.
+- 🎓 I graduated from the Ohori Laboratory, Graduate School of Software and Information Science, Iwate Prefectural University, where I researched the analysis of subscription service users using statistical analysis.
+- 💻 I'm currently working as a Software Developer at NEC, building and operating execution infrastructure for AI supercomputers, with a focus on platform engineering — automating and streamlining operations using tools like Kubernetes, Ansible and Go.
+- 📖 I'm also studying sociology and economics at The Open University of Japan.
 
 ## Langs and Skills
 <p align="left"> 
